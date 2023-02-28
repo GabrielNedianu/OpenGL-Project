@@ -1,0 +1,2 @@
+C:\anul4\open_gl\Project1\x64\Debug\Project1.exe
+C:\anul4\open_gl\Project1\OpenGL-Project\x64\Debug\Project1.exe
